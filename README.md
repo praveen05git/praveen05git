@@ -11,4 +11,4 @@ Get to know about me:
 - 💬 Ask me about ...Linux Distros🐧
 - 📫 How to reach me: ...praveenmail@protonmail.com 💌
 
-[![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git)](https://github.com/praveen05git)
+[![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&hide=prs)](https://github.com/praveen05git)
