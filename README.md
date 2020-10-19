@@ -12,3 +12,4 @@ Get to know about me:
 - 📫 How to reach me: ...praveenmail@protonmail.com 💌
 
 [![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&hide=stars,prs,issues,contribs)](https://github.com/praveen05git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git)](https://github.com/praveen05git)
