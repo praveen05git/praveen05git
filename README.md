@@ -1,15 +1,15 @@
 ## Hi, I'm [Praveen!](https://github.com/praveen05git)👋
 
-<a href="https://www.linkedin.com/in/praveen05/" title="LinedIn">
+<a href="https://www.linkedin.com/in/praveen05/" title="LinedIn Profile">
   <img align="left" alt="Praveen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin.png" />
 </a>
 <a href="https://play.google.com/store/apps/dev?id=7031227816779180923" title="PlayStore Developer Page">
   <img align="left" alt="Praveen | PlayStore" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/PlayStore-logo.png" />
 </a>
-<a href="https://github.com/praveen05git" title="GitHub">
+<a href="https://github.com/praveen05git" title="GitHub Profile">
   <img align="left" alt="Praveen | GitHub" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/github-logo.png" />
 </a>
-<a href="https://www.reddit.com/user/praveen0502" title="Reddit">
+<a href="https://www.reddit.com/user/praveen0502" title="Reddit Profile">
   <img align="left" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/reddit%20logo.png" />
 </a>
 <a href="https://hencesimplified.wixsite.com/praveen" title="Personal Site">
