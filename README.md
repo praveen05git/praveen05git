@@ -3,12 +3,16 @@
 <!--
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://www.linkedin.com/in/praveen05/">
+<a href="https://www.linkedin.com/in/praveen05/" title="LinedIn">
   <img align="left" alt="Praveen | LinkedIn" width="21px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin%20logo.png" />
 </a>
-<a href="https://www.reddit.com/user/praveen0502">
+<a href="https://www.reddit.com/user/praveen0502" title="Reddit">
   <img align="left" alt="Praveen | Reddit" width="21px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/reddit%20logo.png" />
 </a>
+<a href="https://github.com/praveen05git" title="GitHub">
+  <img align="left" alt="Praveen | GitHub" width="21px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/github-logo.png" />
+</a>
+
 </br>
 </br>
 
