@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/praveen05/" title="LinedIn">
   <img align="left" alt="Praveen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin.png" />
 </a>
+<a href="https://play.google.com/store/apps/dev?id=7031227816779180923" title="PlayStore Developer Page">
+  <img align="left" alt="Praveen | PlayStore" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/play-store-1-810x298_c.jpg" />
+</a>
 <a href="https://github.com/praveen05git" title="GitHub">
   <img align="left" alt="Praveen | GitHub" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/github-logo.png" />
 </a>
