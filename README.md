@@ -4,15 +4,14 @@
 <!--
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div align="center>
 <a href="https://www.linkedin.com/in/praveen05/" title="LinedIn">
-  <img alt="Praveen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin.png" />
+  <img align="center" alt="Praveen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin.png" />
 </a>
 <a href="https://github.com/praveen05git" title="GitHub">
-  <img alt="Praveen | GitHub" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/github-logo.png" />
+  <img align="center" alt="Praveen | GitHub" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/github-logo.png" />
 </a>
 <a href="https://www.reddit.com/user/praveen0502" title="Reddit">
-  <img alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/reddit%20logo.png" />
+  <img align="center" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/reddit%20logo.png" />
 </a>
 </div>
 </br>
