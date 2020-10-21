@@ -1,19 +1,20 @@
 ### Hi, I'm [Praveen!](https://github.com/praveen05git)👋
+
+<a href="https://www.linkedin.com/in/praveen05/" title="LinedIn">
+  <img align="right" alt="Praveen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin.png" />
+</a>
+<a href="https://github.com/praveen05git" title="GitHub">
+  <img align="right" alt="Praveen | GitHub" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/github-logo.png" />
+</a>
+<a href="https://www.reddit.com/user/praveen0502" title="Reddit">
+  <img align="right" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/reddit%20logo.png" />
+</a>
 <hr>
 
 <!--
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://www.linkedin.com/in/praveen05/" title="LinedIn">
-  <img align="left" alt="Praveen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin.png" />
-</a>
-<a href="https://github.com/praveen05git" title="GitHub">
-  <img align="left" alt="Praveen | GitHub" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/github-logo.png" />
-</a>
-<a href="https://www.reddit.com/user/praveen0502" title="Reddit">
-  <img align="left" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/reddit%20logo.png" />
-</a>
-</div>
+
 </br>
 </br>
 
