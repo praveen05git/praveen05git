@@ -1,4 +1,4 @@
-## Hi there, I'm [Praveen!](https://github.com/praveen05git)👋
+## Hi there, I'm [Praveen!]( https://www.dropbox.com/s/e3t6z70o5awu6mi/Praveen%20Resume.pdf?dl=0)👋
 
 <a href="https://www.linkedin.com/in/praveen05/" title="LinedIn Profile">
   <img align="left" alt="Praveen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin.png" />
