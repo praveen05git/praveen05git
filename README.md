@@ -29,7 +29,7 @@ hide=stars,prs,issues,contribs
 </br>
 
 [![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&show_icons=true&hide=prs,issues,contribs)](https://github.com/praveen05git)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&layout=compact&hide=c,sqlpl">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&layout=compact&hide=c,sqlpl,css,asp">
 </br>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=praveen05git&style=flat" alt="praveen"></p>
