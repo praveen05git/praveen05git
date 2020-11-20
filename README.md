@@ -30,5 +30,6 @@
 </br>
 
 [![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/praveen05git)
+</br>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=praveen05git&style=flat" alt="praveen"></p>
