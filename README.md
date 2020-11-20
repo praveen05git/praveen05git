@@ -16,15 +16,13 @@
   <img align="left" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/global.png" />
 </a>
 </br>
+</br>
 
 <!--
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&hide=c,sqlpl,asp">
-
-## About Me
-</br>
 
 - 🔭 <b>I’m currently working on</b>... Android Apps📱
 - <b>🌱 I’m currently learning</b>... Flutter👀
