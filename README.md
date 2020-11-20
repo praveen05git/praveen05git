@@ -24,8 +24,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&hide=c,sqlpl,asp">
 
 ## About Me
-
 </br>
+
 - 🔭 <b>I’m currently working on</b>... Android Apps📱
 - <b>🌱 I’m currently learning</b>... Flutter👀
 - 💬<b> Ask me about</b>... Linux Distros🐧
