@@ -20,9 +20,7 @@
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&layout=compact&langs_count=10&hide=asp,sqlpl,c">
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&layout=compact&langs_count=10&hide=asp,sqlpl,c">
 
 - 🔭 <b>I’m currently working on</b>... Android Apps📱
 - <b>🌱 I’m currently learning</b>... Flutter👀
