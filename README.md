@@ -15,19 +15,20 @@
 <a href="https://hencesimplified.wixsite.com/praveen" title="Personal Site">
   <img align="left" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/global.png" />
 </a>
+</br>
 
 <!--
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&layout=compact&langs_count=10&hide=asp,sqlpl,c">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&hide=asp,sqlpl,c">
 
 - 🔭 <b>I’m currently working on</b>... Android Apps📱
 - <b>🌱 I’m currently learning</b>... Flutter👀
 - 💬<b> Ask me about</b>... Linux Distros🐧
 - 📫 <b>How to reach me</b>... praveenmail@protonmail.com 💌
+</br>
 
 [![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/praveen05git)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&layout=compact&langs_count=10&hide=asp,sqlpl,c)](https://github.com/praveen05git?tab=repositories)
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=praveen05git&style=flat" alt="praveen"></p>
