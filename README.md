@@ -30,7 +30,7 @@ hide=c,sqlpl,asp
 </br>
 
 [![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&show_icons=true)](https://github.com/praveen05git)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&layout=compact">
 </br>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=praveen05git&style=flat" alt="praveen"></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=praveen05git&style=flat" alt="praveen"></p>
