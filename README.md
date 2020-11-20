@@ -20,7 +20,6 @@
 <!--
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 hide=stars,prs,issues,contribs
-hide=c,sqlpl,asp
 -->
 
 - 🔭 <b>I’m currently working on</b>... Android Apps📱
@@ -30,7 +29,7 @@ hide=c,sqlpl,asp
 </br>
 
 [![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&show_icons=true)](https://github.com/praveen05git)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&layout=compacthide=c,sqlpl">
 </br>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=praveen05git&style=flat" alt="praveen"></p>
