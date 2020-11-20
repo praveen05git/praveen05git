@@ -22,6 +22,8 @@
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&hide=asp,sqlpl,c">
+</br>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=praveen05git&style=flat" alt="praveen"></p>
 
 - 🔭 <b>I’m currently working on</b>... Android Apps📱
 - <b>🌱 I’m currently learning</b>... Flutter👀
@@ -31,5 +33,3 @@
 
 [![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/praveen05git)
 </br>
-
-<p align="right"><img src="https://komarev.com/ghpvc/?username=praveen05git&style=flat" alt="praveen"></p>
