@@ -23,6 +23,7 @@
 <!--
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 hide=stars,prs,issues,contribs
+[![Praveen's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@08fb360d-8c68-44c0-8562-1b01216a0dc1)]
 -->
 </br>
 
@@ -32,7 +33,7 @@ hide=stars,prs,issues,contribs
 - 📫 <b>How to reach me</b>... praveenmail@protonmail.com 💌
 </br>
 
-[![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveen05git&show_icons=true&hide=prs,issues,contribs)](https://github.com/praveen05git)
+[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen05git&show_icons=true&hide=prs,issues,contribs)](https://github.com/praveen05git)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen05git&langs_count=10&layout=compact&hide=c,sqlpl,css,asp">
 </br>
 
