@@ -15,13 +15,13 @@
 <a href="https://www.reddit.com/user/praveen0502" title="Reddit Profile">
   <img align="left" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/reddit%20logo.png" />
 </a>
-<a href="https://hencesimplified.wixsite.com/praveen" title="Personal Site">
-  <img align="left" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/global.png" />
-</a>
 </br>
 
 <!--
 **praveen05git/praveen05git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://hencesimplified.wixsite.com/praveen" title="Personal Site">
+  <img align="left" alt="Praveen | Reddit" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/global.png" />
+</a>
 hide=stars,prs,issues,contribs
 [![Praveen's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@08fb360d-8c68-44c0-8562-1b01216a0dc1)]
 -->
