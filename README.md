@@ -1,4 +1,4 @@
-## Hi there, I'm [Praveen!]( )👋
+## Hi there, I'm [Praveen!]👋
 
 <a href="https://play.google.com/store/apps/dev?id=7031227816779180923" title="PlayStore Developer Page">
   <img align="left" alt="Praveen | PlayStore" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/PlayStore-logo.png" />
@@ -21,11 +21,11 @@
 </a>
 hide=stars,prs,issues,contribs
 [![Praveen's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@08fb360d-8c68-44c0-8562-1b01216a0dc1)]
+- 🔭 <b>I’m currently working on</b>... Android Apps📱
+- <b>🌱 I’m currently learning</b>... Flutter👀
 -->
 </br>
 
-- 🔭 <b>I’m currently working on</b>... Android Apps📱
-- <b>🌱 I’m currently learning</b>... Flutter👀
 - 💬<b> Ask me about</b>... Linux Distros🐧
 - 📫 <b>How to reach me</b>... praveenmail@protonmail.com 💌
 </br>
