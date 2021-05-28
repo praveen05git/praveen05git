@@ -1,8 +1,5 @@
-## Hi there, I'm [Praveen!]( https://www.dropbox.com/s/e3t6z70o5awu6mi/Praveen%20Resume.pdf?dl=0)👋
+## Hi there, I'm [Praveen!]( )👋
 
-<a href="https://www.linkedin.com/in/praveen05/" title="LinedIn Profile">
-  <img align="left" alt="Praveen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/linkedin.png" />
-</a>
 <a href="https://play.google.com/store/apps/dev?id=7031227816779180923" title="PlayStore Developer Page">
   <img align="left" alt="Praveen | PlayStore" width="22px" src="https://raw.githubusercontent.com/praveen05git/praveen05git/main/images/PlayStore-logo.png" />
 </a>
